@@ -1,4 +1,5 @@
-# antlers
+# ant-design-rust
+
 Ant Design component library for websites that use yew (the nearest rust equivalent to react)
 
 ## In plain english please
